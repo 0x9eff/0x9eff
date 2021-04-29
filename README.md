@@ -1,5 +1,4 @@
-```markdown
-
+```
 # Shell Script, Python, Ruby
 
 # i <33 all unix (fuck debian based)
